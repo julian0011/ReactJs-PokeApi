@@ -6,6 +6,8 @@ Aplicacion simple construida en ReactJs para consumo de API (https://pokeapi.co/
 
 Descargar o clonar este repositorio
 
+### `npm install`
+
 ### `npm start`
 
 Abrir [http://localhost:3000](http://localhost:3000) en tu navegador.
